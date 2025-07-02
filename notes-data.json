@@ -1,0 +1,42 @@
+{
+  "notes": [
+    {
+      "id": "1751290943088",
+      "title": "asdasdasdadsasdasdasdasdasdasd",
+      "content": "",
+      "color": "#fef3c7",
+      "passwordProtected": false,
+      "locked": false,
+      "position": {
+        "x": 504.4375,
+        "y": 64.97500610351562
+      },
+      "size": {
+        "width": 300,
+        "height": 400
+      },
+      "folderId": "1751290951262"
+    }
+  ],
+  "folders": [
+    {
+      "id": "1751290951262",
+      "name": "This is a very secret folder",
+      "color": "#4b5563",
+      "passwordProtected": true,
+      "locked": true,
+      "position": {
+        "x": 43.80000305175781,
+        "y": 28.400009155273438
+      },
+      "size": {
+        "width": 300,
+        "height": 400
+      },
+      "notes": [
+        "1751290943088"
+      ],
+      "password": "password"
+    }
+  ]
+}
